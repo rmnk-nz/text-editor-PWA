@@ -13,13 +13,13 @@
   Git clone the repository to your local - run npm install in the command line - once dependices and packages are installed, npm run start in the command line of the root directory to build application 
 
   ## Usage
-  npm run start to and start application - application will launch on localhost/3000
+  npm run start in command line to start application - application will launch on localhost/3000
 
   ## Contributing
   create pull request for me to review and merge to project
 
   ## Test
-  
+  link to deployed application on Heroku: https://rmnk-nz-text-editor-pwa.herokuapp.com/
 
   ## License
   This application is covered by ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg) license.
